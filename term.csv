@@ -1,0 +1,131 @@
+﻿术语,释义,术语,释义
+nC,"n张合约
+（n Contract）",MDT,微型双顶
+AIL,"持续看多
+（Always in Long）",MG,测量缺口
+AIS,"持续看空
+（Always in Short）",MG(N/A/B),磁力，反转支撑阻力区
+AODD,"几乎反转下跌日
+（Almost Outside Down Day）",MM,"移动目标位
+（Measured Move）"
+AOUD,"几乎反转上涨日
+（Almost Outside Up Day）",MP,价格中点
+ATH,"历史最高点
+（All Time High）",MRV,"小级别趋势反转，进入TR或PB
+（Minor Trend Reversal）"
+B,买,MTR,"主要趋势反转
+（Major Trend Reversal）"
+BA,"K线高点买入
+（Buy Above）",MW,微型楔形，3-4根K线组成
+BB,"K线低点卖出
+（Buy Below）",NL,"颈线
+（Neck Line）"
+BDBUC,"大跌大涨交易区间
+（Confusion）",nR,n倍盈亏比
+BE,"保本打平价
+（Break Even）",NW,"嵌套楔形，最后一腿通常较小，趋势末期或中继
+（Nested Wedge）"
+BL,"多头
+（Bullish）",ob,外包K线
+BLSHS,"高抛低吸
+（Buy Low Sell High Scalp）",OD,外包下跌K线
+BO,"突破
+（Breakout）",ODD,外包下跌交易日，市场由上涨反转下跌
+BOM,"突破模式
+（50%概率突破到1MM，50%概率首次突破失败）",oo,连续外包，突破信号
+BOT,"趋势线突破
+（Break Of Trendline）",OoD,当日开盘
+BT,突破测试（入场）,ORV,"开盘反转
+（Opening Reversal）"
+BTC,"收盘买入
+（Buy The Close）",ORV(D/U),开盘反转下跌/上涨
+BVT,"阻力测试买入
+（Buy Vacuum Test of resistance）",OU,外包上涨K线
+BX,"抢购高潮
+（Buy Climax）",OUD,外包上涨交易日，市场由下跌反转上涨
+C,平仓,OW,每周首个交易日的开盘价
+CH,通道,P,概率
+DB,双底,PB,回调
+DBL,"失望多头
+（Disappointed Bulls）",P(B/S)X,抛物线买入/卖出耗尽
+DBR,"失望空头
+（Disappointed Bears）",P(H/L),潜在日内高/低点
+DT,双顶,PT,"盈利目标
+（Profit Target）"
+EB,"入场K线
+（Entry Bar）",PTG,"止盈
+（Profit Taking）"
+EMA,指数移动平均,PW,"抛物线楔形，动力减弱
+（Parabolic Wedge）"
+EoD,当日结束时间点,RB,反转K线
+ET,"扩张三角形（楔形）
+（Expanding Triangle）",RR,风险回报（盈亏比）
+FBO,突破失败,RS,阻力位
+FF,"末端旗形
+（Final Flag）",S,卖
+FOMC,美联储公开市场委员会会议和公告,S(A/B),"上部/下部卖压
+（Sellers Above/Below）"
+FT,"跟随
+（Follow Through）",SBL,"多头补仓
+（Scale in Bulls）"
+G(B/D/U),缺口K线/向上缺口/向下缺口,SBR,"空头补仓
+（Scale in Bear）"
+GUB,放弃K线,SC(B/T),"尖峰通道底/顶，突然下跌/上涨新低/高，进入通道，反转信号
+（Spike and Channel Bottom）"
+H,最高点,SH,"波段高点
+（Swing High）"
+H1,上升趋势首次回调的第1根K线高点更高的阳线,SL,"波段低点/止损位
+（Stop Loss）"
+H2,上升趋势二次回调的第2根K线高点更高的阳线,SP,"支撑位
+（Support）"
+H3,上升趋势三次回调高点抬高，潜在楔形牛旗,SSB,卖出信号K线
+HFT,高频交易,STC,"收盘卖出
+（Sell The Close）"
+HH,更高的高点,SVT,"支撑测试卖出
+（Sell Vacuum Test of support）"
+HL,更高的低点,SX,"抛售高潮
+（Sell Climax)"
+HoD,当日最高点,TBTL,"两段十K
+（Ten Bars Two Legs correction）"
+HoY,昨日最高点,TG(A/B),目标价格在当前价上/下
+HSB,"头肩底
+（Head and Shoulders Bottom）",TL,趋势线
+HST,"头肩顶
+（Head and Shoulders Top）",TR,"震荡区间
+（Trading Range）"
+ib,内包K线/孕线（inside bar） ,TRD,区间交易日
+ii,连续2根内包K线,TRES,"趋势恢复
+（Trend Resumption）"
+iii,连续3根内包K线,TREV,趋势反转
+ioi,内包-外包-内包（突破模式）,TRI,三角形态，上下各50%，首次失败50%
+ioii,内包-外包-内包-内包,TRO,交易区间开盘，限价单交易为主
+Kn/nB,第n根K线,TTR,"窄幅震荡区间
+（Tight Trading Range）"
+L,最低点,TTRD,趋势交易区间日
+L1,下跌趋势的单段回调,TW,"截断楔形
+（Truncated Wedge）"
+L2,下跌趋势的第3段回调,W,楔形，三推等
+L3,下跌趋势的第3段回调，潜在楔形熊旗,AOI,"关注区域
+（Area Of Interst）"
+LH,更低的高点,TP,止盈位
+LL,更低的低点,FVG,"公允价值缺口
+（Fair Value Gap）"
+LoD,当日最低点,iFVG,"反向公允价值缺口
+（inverse FVG）"
+LOM,"现价单市场
+（Limit Order Market）",OB,"订单块
+（OrderBlock）"
+LoY,昨日最低点,BR,"空头
+（Bearish）"
+MA,移动平均,BOS,"结构突破
+（Break of Structure）"
+MAG,"移动平均缺口K线
+（Moving Average Gap Bar）",CHoCH,"性质转变
+（Change of Character）"
+MB,"稀释块/模型块
+（Mitigation Block/Model Block）",IMB,"不平衡区域
+（Imbalance）"
+MDB,微型双底,FT/FF,"反向快速交易
+（Flip Trade/Fast Flip）"
+MDR,"盘中反转，通常在12或40B
+（Midday Reversal）",(H/L)VN,高/低频成交区
